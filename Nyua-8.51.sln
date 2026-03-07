@@ -1,0 +1,13 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nyua-8.51", "Nyua-8.51\Nyua-8.51.vcxproj", "{759B9FFC-437F-4E93-9800-D90DCB0E68A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759B9FFC-437F-4E93-9800-D90DCB0E68A9}.Release|Any CPU.ActiveCfg = Release|x64
+		{759B9FFC-437F-4E93-9800-D90DCB0E68A9}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
